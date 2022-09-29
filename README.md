@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prateekpatel244
 - 👀 I’m interested in learning Machine learning 
-- 🌱 I’m currently learning basics of python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning basics of machine learning and statics 
 - 📫 Contact me  at prateek.patel244@gmail.com
+-     My linkedin Id is https://www.linkedin.com/in/prateek-patel-19a45b128
 
 <!---
 Prateekpatel244/Prateekpatel244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
